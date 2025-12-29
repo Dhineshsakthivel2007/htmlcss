@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgba(59, 59, 230, 0.908);
+}
+#mainbox
+{
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 50PX;
+}
+header
+{
+    padding-top: 20PX;
+    padding-left: 20px;
+}
+hr
+{
+   width:30px;
+   background-color: blue;
+   margin: 0;
+}
+#mainboxcontent
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10px;
+}
+#namebox
+{
+    width: 300px;
+    height:25px;
+    border: 1px solid black;
+}
